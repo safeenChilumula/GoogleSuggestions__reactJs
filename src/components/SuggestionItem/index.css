@@ -1,0 +1,20 @@
+.list-container {
+  height: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.suggestion {
+  margin: 0px;
+  color: #475569;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'roboto';
+}
+
+.arrow {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
